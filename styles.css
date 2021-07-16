@@ -1,0 +1,135 @@
+.top-container {
+  background-color: #F1ECC3;
+  position: relative;
+  padding-top: 270px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625em;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #57837B;
+  line-height:2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #57837B;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #515E63;
+  font-size:1.5rem;
+}
+
+a {
+  color: #515E63;
+}
+
+hr {
+  width:10%;
+  border-style:none;
+  border-top:dotted;
+  border-color:grey;
+  border-width:10px;
+  margin:100px auto;
+}
+
+p {
+  line-height:2;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #C9D8B6;
+  padding: 50px 0 20px;
+  width: 100%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 200px;
+}
+
+.coding-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.LOL-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-pic {
+  width: 256px;
+  height: 256px;
+}
+
+.title-p {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 50px 0 50px 0;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #57837B;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  font-family: 'Merriweather', serif;
+}
+
+.btn:hover {
+  background-color:#C9D8B6;
+}
+
+.footer-link {
+  margin: 25px;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+}
+
+.footer-link:hover {
+  color:white;
+}
+
+.copyright {
+  font-size:0.75rem;
+  padding-top:20px;
+}
+
+.contact-p {
+  width:40%;
+  margin:auto;
+}
